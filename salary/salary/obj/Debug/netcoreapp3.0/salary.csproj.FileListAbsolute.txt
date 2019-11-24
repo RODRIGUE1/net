@@ -1,0 +1,11 @@
+C:\Users\MANZI\Desktop\c#app\salary\salary\bin\Debug\netcoreapp3.0\salary.exe
+C:\Users\MANZI\Desktop\c#app\salary\salary\bin\Debug\netcoreapp3.0\salary.deps.json
+C:\Users\MANZI\Desktop\c#app\salary\salary\bin\Debug\netcoreapp3.0\salary.runtimeconfig.json
+C:\Users\MANZI\Desktop\c#app\salary\salary\bin\Debug\netcoreapp3.0\salary.runtimeconfig.dev.json
+C:\Users\MANZI\Desktop\c#app\salary\salary\bin\Debug\netcoreapp3.0\salary.dll
+C:\Users\MANZI\Desktop\c#app\salary\salary\bin\Debug\netcoreapp3.0\salary.pdb
+C:\Users\MANZI\Desktop\c#app\salary\salary\obj\Debug\netcoreapp3.0\salary.csprojAssemblyReference.cache
+C:\Users\MANZI\Desktop\c#app\salary\salary\obj\Debug\netcoreapp3.0\salary.AssemblyInfoInputs.cache
+C:\Users\MANZI\Desktop\c#app\salary\salary\obj\Debug\netcoreapp3.0\salary.AssemblyInfo.cs
+C:\Users\MANZI\Desktop\c#app\salary\salary\obj\Debug\netcoreapp3.0\salary.dll
+C:\Users\MANZI\Desktop\c#app\salary\salary\obj\Debug\netcoreapp3.0\salary.pdb
