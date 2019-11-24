@@ -1,14 +1,80 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cdb0d70-a74f-4b37-972a-9a25a7664425" name="Default Changelist" comment="" />
+    <list default="true" id="6cdb0d70-a74f-4b37-972a-9a25a7664425" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.bank system/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.bank system/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.bank system/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.bank system/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.bank system/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.bank system/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.bank system/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/bank system.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/bin/Debug/netcoreapp3.0/bank system.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/bin/Debug/netcoreapp3.0/bank system.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/bin/Debug/netcoreapp3.0/bank system.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/bin/Debug/netcoreapp3.0/bank system.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/bin/Debug/netcoreapp3.0/bank system.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/bin/Debug/netcoreapp3.0/bank system.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/obj/Debug/netcoreapp3.0/bank system.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/obj/Debug/netcoreapp3.0/bank system.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/obj/Debug/netcoreapp3.0/bank system.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/obj/Debug/netcoreapp3.0/bank system.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/obj/Debug/netcoreapp3.0/bank system.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/obj/Debug/netcoreapp3.0/bank system.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/obj/Debug/netcoreapp3.0/bank system.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/obj/Debug/netcoreapp3.0/bank system.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/obj/bank system.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/obj/bank system.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/obj/bank system.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/obj/bank system.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank system/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/.idea/.idea.salary/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/.idea/.idea.salary/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/.idea/.idea.salary/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/.idea/.idea.salary/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/.idea/.idea.salary/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/.idea/.idea.salary/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/.idea/.idea.salary/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/CalculateSalary.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/bin/Debug/netcoreapp3.0/salary.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/bin/Debug/netcoreapp3.0/salary.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/bin/Debug/netcoreapp3.0/salary.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/bin/Debug/netcoreapp3.0/salary.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/bin/Debug/netcoreapp3.0/salary.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/bin/Debug/netcoreapp3.0/salary.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/obj/Debug/netcoreapp3.0/salary.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/obj/Debug/netcoreapp3.0/salary.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/obj/Debug/netcoreapp3.0/salary.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/obj/Debug/netcoreapp3.0/salary.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/obj/Debug/netcoreapp3.0/salary.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/obj/Debug/netcoreapp3.0/salary.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/obj/Debug/netcoreapp3.0/salary.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/obj/Debug/netcoreapp3.0/salary.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/obj/salary.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/obj/salary.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/obj/salary.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/obj/salary.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../salary/salary/salary.csproj" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/bank system/obj/Debug/netcoreapp3.0/bank system.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/bank system/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -19,6 +85,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1U49gjyndFzK3jd44ipcmQiy6pv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
@@ -66,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574605113594</updated>
-      <workItem from="1574605117411" duration="601000" />
+      <workItem from="1574605117411" duration="875000" />
     </task>
     <servers />
   </component>
@@ -75,6 +142,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
